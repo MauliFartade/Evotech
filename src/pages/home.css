@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.navigation{
+    margin-top: 100px;
+}
+
+#homeHeading{
+    color: rgb(84, 223, 86);
+    font-size: 40px; 
+    padding: 20px;  
+}
+
+#link a:hover {
+    color: blue;
+  }
