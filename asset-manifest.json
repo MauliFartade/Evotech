@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Evotech/static/css/main.82e65beb.css",
+    "main.js": "/Evotech/static/js/main.36c91c17.js",
+    "static/js/244.c4e596dd.chunk.js": "/Evotech/static/js/244.c4e596dd.chunk.js",
+    "static/media/PoppinsRegular.ttf": "/Evotech/static/media/PoppinsRegular.35d26b781dc5fda684cc.ttf",
+    "static/media/PoppinsMedium.ttf": "/Evotech/static/media/PoppinsMedium.673ed42382ab264e0bf5.ttf",
+    "static/media/PoppinsSemiBold.ttf": "/Evotech/static/media/PoppinsSemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/PoppinsExtraBold.ttf": "/Evotech/static/media/PoppinsExtraBold.01849ee091e1762a5dd5.ttf",
+    "index.html": "/Evotech/index.html",
+    "main.82e65beb.css.map": "/Evotech/static/css/main.82e65beb.css.map",
+    "main.36c91c17.js.map": "/Evotech/static/js/main.36c91c17.js.map",
+    "244.c4e596dd.chunk.js.map": "/Evotech/static/js/244.c4e596dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82e65beb.css",
+    "static/js/main.36c91c17.js"
+  ]
+}
